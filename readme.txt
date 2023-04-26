@@ -1,4 +1,3 @@
 modules required
-open cv
-pyqt 5
-ptqt5 tools for converting ui to py
+open cv(pip install opencv-python) 
+pyqt 5(pip install PyQt5)
